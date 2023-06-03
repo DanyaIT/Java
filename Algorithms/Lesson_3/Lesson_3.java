@@ -1,6 +1,7 @@
+package Algorithms.Lesson_3;
 import java.util.*;
 
-public class Tree<T extends Comparable<T>> {
+public class Lesson_3<T extends Comparable<T>> {
     // FIXME: 29.05.2023 Домашнее задание
     // Сделать класс Node параметризованным типом T
     // Переписать все упоминания int value на T value
